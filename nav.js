@@ -58,10 +58,11 @@ navbar.innerHTML=` <a class="navbar-brand mb-0" href="#">LOGO</a>
                 <div class="col-lg-2 col-md-6">
                     <h6 class="fw-bold mb-3">Service</h6>
                     <ul class="list-unstyled">
-                        <li><a href="printed.html" class="text-white-50 text-decoration-none">Printed Label</a></li>
-                        <li><a href="wovellabel.html" class="text-white-50 text-decoration-none">Woven label</a></li>
-                        <li><a href="barcodesticker.html" class="text-white-50 text-decoration-none">Barcode Stickers</a></li>
-                        <li><a href="heattransfer.html" class="text-white-50 text-decoration-none">Heat Transfer Stickers</a></li>
+                        <li><a href="printed.html" class="text-white-50 text-decoration-none">woven Label</a></li>
+                        <li><a href="wovellabel.html" class="text-white-50 text-decoration-none">Printed label</a></li>
+                        <li><a href="barcodesticker.html" class="text-white-50 text-decoration-none">Dtf Stickers</a></li>
+                        <li><a href="heattransfer.html" class="text-white-50 text-decoration-none">Rubber batch</a></li>
+                         <li><a href="heattransfer.html" class="text-white-50 text-decoration-none">Cotton rope</a></li>
                     </ul>
                 </div>
 
@@ -71,6 +72,7 @@ navbar.innerHTML=` <a class="navbar-brand mb-0" href="#">LOGO</a>
                     <ul class="list-unstyled">
                         <li><a href="index.html" class="text-white-50 text-decoration-none">Home</a></li>
                         <li><a href="aboutus.html" class="text-white-50 text-decoration-none">About us</a></li>
+                         <li><a href="aboutus.html" class="text-white-50 text-decoration-none">Our services</a></li>
                         <li><a href="contactus.html" class="text-white-50 text-decoration-none">Contact us</a></li>
                     </ul>
                 </div>
@@ -100,5 +102,6 @@ navbar.innerHTML=` <a class="navbar-brand mb-0" href="#">LOGO</a>
             </div>
         </div>`;
       foot.appendChild(footer);
+
 
 
