@@ -62,7 +62,7 @@ navbar.innerHTML=` <a class="navbar-brand mb-0" href="#">LOGO</a>
                         <li><a href="wovellabel.html" class="text-white-50 text-decoration-none">Printed label</a></li>
                         <li><a href="barcodesticker.html" class="text-white-50 text-decoration-none">Dtf Stickers</a></li>
                         <li><a href="heattransfer.html" class="text-white-50 text-decoration-none">Rubber batch</a></li>
-                         <li><a href="heattransfer.html" class="text-white-50 text-decoration-none">Cotton rope</a></li>
+                         <li><a href="heattransfer.html" class="text-white-50 text-decoration-none">Cotton Rope</a></li>
                     </ul>
                 </div>
 
@@ -102,6 +102,7 @@ navbar.innerHTML=` <a class="navbar-brand mb-0" href="#">LOGO</a>
             </div>
         </div>`;
       foot.appendChild(footer);
+
 
 
 
